@@ -1,0 +1,100 @@
+﻿  bigpoly.cpp
+  bigpolyarray.cpp
+  biguint.cpp
+  ciphertext.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEALTest\ciphertext.cpp(107,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEALTest\ciphertext.cpp(118,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEALTest\ciphertext.cpp(133,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  context.cpp
+  encoder.cpp
+  encryptionparams.cpp
+  encryptor.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  evaluationkeys.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  evaluator.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluator.h(1127,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluator.h(1174,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  galoiskeys.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  plaintext.cpp
+  polycrt.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  publickey.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  secretkey.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  smallmodulus.cpp
+  keygenerator.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  memorypoolhandle.cpp
+  randomgen.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  utilities.cpp
+  Generating Code...
+  Compiling...
+  clipnormal.cpp
+  common.cpp
+  hash.cpp
+  locks.cpp
+  mempool.cpp
+  modulus.cpp
+  ntt.cpp
+  numth.cpp
+  polyarith.cpp
+  polyarithmod.cpp
+  polyarithsmallmod.cpp
+  polycore.cpp
+  nussbaumer.cpp
+  polyfftmultmod.cpp
+  polyfftmultsmallmod.cpp
+  randomtostd.cpp
+  smallntt.cpp
+  stringtouint64.cpp
+  uint64tostring.cpp
+  uintarith.cpp
+  Generating Code...
+  Compiling...
+  uintarithmod.cpp
+  uintarithsmallmod.cpp
+  uintcore.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  SEAL.lib(biguint.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\Tomas\ppmlproject\PySEAL\bin\x64\Release\SEALTest.lib and object C:\Users\Tomas\ppmlproject\PySEAL\bin\x64\Release\SEALTest.exp
+  Generating code
+  Finished generating code
+  SEALTest.vcxproj -> C:\Users\Tomas\ppmlproject\PySEAL\bin\x64\Release\SEALTest.dll

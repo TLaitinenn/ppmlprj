@@ -1,0 +1,2 @@
+C:\Users\Tomas\ppmlproject\PySEAL\SEALNETTest\obj\x64\Release\SEALNETTest.csproj.AssemblyReference.cache
+C:\Users\Tomas\ppmlproject\PySEAL\SEALNETTest\obj\x64\Release\SEALNETTest.csproj.CoreCompileInputs.cache

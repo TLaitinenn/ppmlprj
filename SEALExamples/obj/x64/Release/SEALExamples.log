@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(228,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(278,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\ciphertext.h(533,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluationkeys.h(88,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluator.h(1127,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tomas\ppmlproject\PySEAL\SEAL\seal\evaluator.h(1174,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2569 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SEALExamples.vcxproj -> C:\Users\Tomas\ppmlproject\PySEAL\bin\x64\Release\SEALExamples.exe
