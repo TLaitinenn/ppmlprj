@@ -14,6 +14,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 from keras import backend as K
 
+
 # Data preprosessing
 (train_X, train_y), (test_X, test_y) = mnist.load_data()
 x_train = train_X.astype("float32") / 255

@@ -34,9 +34,12 @@ RUN make
 # Build SEAL Python wrapper
 COPY /SEALPython /SEAL/SEALPython
 COPY /SEALPythonExamples /SEAL/SEALPythonExamples
+COPY /Predictor /SEAL/Predictor
 WORKDIR /SEAL/SEALPython
 RUN pip3 install --upgrade pip
 RUN pip3 install setuptools
+RUN pip3 install numpy
+RUN pip3 install matplotlib
 RUN pip3 install -r requirements.txt
 RUN git clone https://github.com/pybind/pybind11.git
 WORKDIR /SEAL/SEALPython/pybind11
